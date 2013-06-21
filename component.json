@@ -8,6 +8,10 @@
   "styles":[
   	"docs/assets/css/bootstrap.css"
   ],
+  "images":[
+    "docs/assets/img/glyphicons-halflings.png",
+    "docs/assets/img/glyphicons-halflings-white.png"
+  ],
   "dependencies": {
     "component/jquery": "*"
   }
