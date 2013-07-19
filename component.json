@@ -12,7 +12,5 @@
     "docs/assets/img/glyphicons-halflings.png",
     "docs/assets/img/glyphicons-halflings-white.png"
   ],
-  "dependencies": {
-    "component/jquery": "*"
-  }
+  "dependencies": {}
 }
